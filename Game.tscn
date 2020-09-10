@@ -29,7 +29,7 @@ font_data = ExtResource( 7 )
 [node name="Game" type="Node2D"]
 
 [node name="Target" type="Area2D" parent="."]
-position = Vector2( 544, 288 )
+position = Vector2( 536, 288 )
 script = ExtResource( 2 )
 __meta__ = {
 "_edit_group_": true
